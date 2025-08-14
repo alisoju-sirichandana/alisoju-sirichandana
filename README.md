@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sirichandana 👋
 
-<!--
-**alisoju-sirichandana/alisoju-sirichandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Science & Analytics Learner | Currently in structured training  
+🌱 Building skills in Python, SQL, and Data Visualization  
+🚀 Eager to apply knowledge to real-world projects
 
-Here are some ideas to get you started:
+## 🛠 Skills I'm Learning
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Data querying & management)
+- Data Visualization (Power BI, Matplotlib, Seaborn)
+- Excel (Basic to Advanced)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Learning Goals
+- Build 3+ data analysis projects
+- Contribute to an open-source data science repo
+- Create a portfolio using GitHub Pages
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/alisojusirichandana)  
+- 📧 Email: **alisojusirichandana@gmail.com**
